@@ -1,5 +1,5 @@
-# CLI-Task-APP
-A simple command line task app built using node js
+# CLI-Notes-APP
+A simple command line Note taking app built using node js
 
 
 # Usage
